@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img alt="[ИМЯ ФАМИЛИЯ] — [направления]" src="assets/header-light.svg" width="100%"></picture>
 
-[ШКОЛА / КЛАСС] ученик. Работаю над [ЧЕМ ИМЕННО], учусь через проекты и [олимпиады / конкурсы / хакатоны].
+[Атбасар НИШ / 7А] ученик. Работаю над [resush], учусь через проекты и [хакатоны].
 
 ## В процессе
 
@@ -38,4 +38,4 @@
 <p><a href="https://t.me/[TELEGRAM_USERNAME]"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg"><img alt="Telegram" src="assets/contact-telegram-light.svg" width="310"></picture></a>
 <a href="https://www.instagram.com/[INSTAGRAM_USERNAME]/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-instagram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contact-instagram-light.svg"><img alt="Instagram" src="assets/contact-instagram-light.svg" width="310"></picture></a></p>
 
-<sub>[Все репозитории ↗](https://github.com/[GITHUB_USERNAME]?tab=repositories)</sub>
+<sub>[Все репозитории ↗](https://github.com/cf-sea?tab=repositories)</sub>
