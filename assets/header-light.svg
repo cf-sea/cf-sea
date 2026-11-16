@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient>
+<linearGradient id="hb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eaf2ff"/><stop offset="1" stop-color="#f3ebff"/></linearGradient>
+</defs>
+<rect width="1200" height="280" rx="20" fill="url(#hb)" stroke="#d0d7de"/>
+<circle cx="1060" cy="60" r="150" fill="url(#g)" opacity="0.12"/>
+<circle cx="1130" cy="230" r="90" fill="url(#g)" opacity="0.16"/>
+<circle cx="920" cy="250" r="40" fill="url(#g)" opacity="0.14"/>
+<rect x="60" y="62" width="64" height="6" rx="3" fill="url(#g)"/>
+<text x="60" y="140" font-size="58" font-weight="800" fill="#1f2328">[ИМЯ ФАМИЛИЯ]</text>
+<text x="60" y="186" font-size="24" fill="#656d76">[НАПРАВЛЕНИЕ 1] · [НАПРАВЛЕНИЕ 2] · [НАПРАВЛЕНИЕ 3]</text>
+<rect x="60" y="206" width="91" height="32" rx="16" fill="#ddf4ff"/><text x="105.5" y="227" font-size="15" fill="#0550ae" text-anchor="middle" font-weight="600">[ТЕГ 1]</text><rect x="161" y="206" width="91" height="32" rx="16" fill="#ddf4ff"/><text x="206.5" y="227" font-size="15" fill="#0550ae" text-anchor="middle" font-weight="600">[ТЕГ 2]</text><rect x="262" y="206" width="91" height="32" rx="16" fill="#ddf4ff"/><text x="307.5" y="227" font-size="15" fill="#0550ae" text-anchor="middle" font-weight="600">[ТЕГ 3]</text>
+</svg>

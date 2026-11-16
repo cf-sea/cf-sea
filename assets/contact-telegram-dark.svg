@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="72" viewBox="0 0 310 72" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#bc8cff"/></linearGradient>
+<linearGradient id="hb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1b30"/><stop offset="1" stop-color="#1c1433"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="308" height="70" rx="35" fill="#161b22" stroke="#30363d"/>
+<circle cx="36" cy="36" r="24" fill="#2CA5E0"/>
+<text x="36" y="45" font-size="24" text-anchor="middle" fill="#ffffff">✈</text>
+<text x="76" y="31" font-size="14" fill="#8b949e">Telegram</text>
+<text x="76" y="53" font-size="18" font-weight="700" fill="#e6edf3">@[TELEGRAM_USERNAME]</text>
+</svg>
