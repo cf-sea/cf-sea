@@ -8,7 +8,7 @@
 <circle cx="1130" cy="230" r="90" fill="url(#g)" opacity="0.16"/>
 <circle cx="920" cy="250" r="40" fill="url(#g)" opacity="0.14"/>
 <rect x="60" y="62" width="64" height="6" rx="3" fill="url(#g)"/>
-<text x="60" y="140" font-size="58" font-weight="800" fill="#e6edf3">[ИМЯ ФАМИЛИЯ]</text>
-<text x="60" y="186" font-size="24" fill="#8b949e">[НАПРАВЛЕНИЕ 1] · [НАПРАВЛЕНИЕ 2] · [НАПРАВЛЕНИЕ 3]</text>
+<text x="60" y="140" font-size="58" font-weight="800" fill="#e6edf3">[Избасар волк]</text>
+<text x="60" y="186" font-size="24" fill="#8b949e">[тик-токер] · [гитхабер] · [клодер]</text>
 <rect x="60" y="206" width="91" height="32" rx="16" fill="#1c2d4a"/><text x="105.5" y="227" font-size="15" fill="#79c0ff" text-anchor="middle" font-weight="600">[ТЕГ 1]</text><rect x="161" y="206" width="91" height="32" rx="16" fill="#1c2d4a"/><text x="206.5" y="227" font-size="15" fill="#79c0ff" text-anchor="middle" font-weight="600">[ТЕГ 2]</text><rect x="262" y="206" width="91" height="32" rx="16" fill="#1c2d4a"/><text x="307.5" y="227" font-size="15" fill="#79c0ff" text-anchor="middle" font-weight="600">[ТЕГ 3]</text>
 </svg>
