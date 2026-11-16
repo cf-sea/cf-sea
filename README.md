@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img alt="[ИМЯ ФАМИЛИЯ] — [направления]" src="assets/header-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img alt="[Избасар волк] — [софт]" src="assets/header-light.svg" width="100%"></picture>
 
 [Атбасар НИШ / 7А] ученик. Работаю над [resush], учусь через проекты и [хакатоны].
 
@@ -9,17 +9,17 @@
 <details>
 <summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-index-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-index-light.svg"><img alt="Смотреть проекты" src="assets/project-index-light.svg" width="236"></picture></summary>
 
-<p><a href="[ССЫЛКА НА РЕПОЗИТОРИЙ 1]"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-p1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-p1-light.svg"><img alt="[ПРОЕКТ 1]" src="assets/index-p1-light.svg" width="100%"></picture></a></p>
+<p><a href="https://resush.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-p1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-p1-light.svg"><img alt="[ПРОЕКТ 1]" src="assets/index-p1-light.svg" width="100%"></picture></a></p>
 
-<p><a href="[ССЫЛКА НА РЕПОЗИТОРИЙ 2]"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-p2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-p2-light.svg"><img alt="[ПРОЕКТ 2]" src="assets/index-p2-light.svg" width="100%"></picture></a></p>
+<p><a href="https://resush-help.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-p2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-p2-light.svg"><img alt="[ПРОЕКТ 2]" src="assets/index-p2-light.svg" width="100%"></picture></a></p>
 
-<p><a href="[ССЫЛКА НА РЕПОЗИТОРИЙ 3]"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-p3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-p3-light.svg"><img alt="[ПРОЕКТ 3]" src="assets/index-p3-light.svg" width="100%"></picture></a></p>
+<p><a href="https://resush.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/index-p3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/index-p3-light.svg"><img alt="[ПРОЕКТ 3]" src="assets/index-p3-light.svg" width="100%"></picture></a></p>
 
 </details>
 
 ## Учёба и рабочее место
 
-<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/study-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/study-light.svg"><img alt="Учёба: [GPA], [класс], [олимпиады]. Инструменты: VS Code, Git, GitHub" src="assets/study-light.svg" width="100%"></picture></p>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="assets/study-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/study-light.svg"><img alt="Учёба: [4.0], [7A], [no]. Инструменты: VS Code, Git, GitHub" src="assets/study-light.svg" width="100%"></picture></p>
 
 ## Технологии
 
